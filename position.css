@@ -1,0 +1,38 @@
+.one{
+    border:2px solid black;
+    position:sticky;
+    left:400px;
+    top:50px;
+    width:300px;
+    padding:20px;
+    background-color: blue;
+    color:white;
+    
+
+}
+.two
+{
+border:2px solid #e90d0d;
+position:sticky;
+left:400px;
+top:50px;
+width:300px;
+padding:20px;
+background-color:rgb(30, 21, 88) ;
+color:white
+
+}
+.three
+{
+border:2px solid rgb(30, 21, 88);
+position:sticky;
+left:400px;
+top:50px;
+width:300px;
+padding:20px;
+background-color: hsl(144, 100%, 50%);
+color:black;
+
+
+
+}

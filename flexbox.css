@@ -1,0 +1,43 @@
+
+
+.container .one{
+
+    border:2px solid black;
+    position:sticky;
+   
+   
+    
+    padding:20px;
+    background-color: blue;
+    color:white;
+    
+
+}
+.container .two
+{
+border:2px solid #e90d0d;
+position:sticky;
+
+
+
+padding:20px;
+background-color:rgb(30, 21, 88) ;
+color:white
+
+}
+.container .three
+{
+border:2px solid rgb(30, 21, 88);
+position:sticky;
+
+padding:20px;
+background-color: hsl(144, 100%, 50%);
+color:black;
+
+
+
+}
+.container{
+    display:flex;
+    flex-direction: column;
+}
